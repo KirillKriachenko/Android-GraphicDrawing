@@ -1,0 +1,8 @@
+Installation on you android device:
+
+1. Copy app-debug.apk to your device.
+2. Find file "app-debug.apk" in fileManager and install it.
+
+To see graphic:
+1. Check checkboes of some companies which line chart you want to see
+2. Press "Stock chart" button to see line chart
